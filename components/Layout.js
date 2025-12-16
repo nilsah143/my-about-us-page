@@ -45,6 +45,7 @@ const Layout = ({ children, title = "Free About Us Page HTML Generator" }) => {
                 <meta property="og:url" content="https://about-us-page-generator-free.vercel.app/" /> 
                 <meta property="og:type" content="website" />
                 {/* Add og:image tag if you have a branded image for sharing */}
+                <meta name="google-site-verification" content="1phf06Nj_1PXSC0_3SnJDEBdBnnljfKs4g_RVNTXC7A" />
 
                 {/* 1. WebPage Schema Markup */}
                 <script 
