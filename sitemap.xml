@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -6,6 +7,16 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+>>>>>>> 9b713987b02004728759bc0fc6473f2e7ff5ec4e
 
 <url>
   <loc>https://about-us-page-generator-free.vercel.app/</loc>
@@ -101,7 +112,13 @@
   <loc>https://about-us-page-generator-free.vercel.app/disclaimer</loc>
   <lastmod>2025-12-16T07:55:53+00:00</lastmod>
   <priority>0.80</priority>
+<<<<<<< HEAD
 </url>
 
 
+=======
+</url>
+
+
+>>>>>>> 9b713987b02004728759bc0fc6473f2e7ff5ec4e
 </urlset>
