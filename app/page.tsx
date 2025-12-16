@@ -102,14 +102,14 @@ export default function HomePage() {
             
             <h4 className="text-xl font-bold text-gray-800 mb-3">Steps for Generating Your Code:</h4>
             <ol className="list-decimal list-inside ml-4 space-y-2 text-gray-700">
-                <li>**Fill in the Three Inputs:** Enter your Website Name, Website Type, and Unique Speciality in the columns above.</li>
-                <li>**Click 'Generate Code':** Our tool processes the information instantly to create the customized HTML.</li>
-                <li>**Copy the HTML:** Use the high-visibility **"Copy HTML Code"** button to grab the code.</li>
-                <li>**Paste and Publish:** Paste the code into the HTML editor or Custom HTML block of your CMS (WordPress, Blogger, etc.).</li>
+                <li>Fill in the Three Inputs:Enter your Website Name, Website Type, and Unique Speciality in the columns above.</li>
+                <li>Click 'Generate Code': Our tool processes the information instantly to create the customized HTML.</li>
+                <li>Copy the HTML: Use the high-visibility "Copy HTML Code" button to grab the code.</li>
+                <li>Paste and Publish:Paste the code into the HTML editor or Custom HTML block of your CMS (WordPress, Blogger, etc.).</li>
             </ol>
             
             <p className="text-gray-800 leading-relaxed mt-6 font-semibold">
-                **Mobile Friendly:** Whether you are on a computer, LAPTOP, or mobile phone, our generator tool is fully responsive and ensures you can generate and copy the code easily from any device.
+                Mobile Friendly: Whether you are on a computer, LAPTOP, or mobile phone, our generator tool is fully responsive and ensures you can generate and copy the code easily from any device.
             </p>
         </div>
 
