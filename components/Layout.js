@@ -52,7 +52,7 @@ const Layout = ({ children, title = "Free About Us Page HTML Generator" }) => {
                     type="application/ld+json" 
                     dangerouslySetInnerHTML={{ __html: JSON.stringify(webPageSchema) }} 
                 />
-                 <meta name="google-site-verification" content="1phf06Nj_1PXSC0_3SnJDEBdBnnljfKs4g_RVNTXC7A" />
+                 
 
 
                

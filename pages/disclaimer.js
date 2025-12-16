@@ -17,7 +17,7 @@ const PrivacyPolicyPage = () => {
       <section className="mb-8">
         <h2 className="text-2xl font-semibold text-gray-800 mb-3">1. General Disclaimer</h2>
         <p className="text-gray-700 leading-relaxed">
-          The information provided by [Your Company Name] ("we," "us" or "our") on <span className="font-medium text-gray-900">https://bitlite-sync.org</span> (the "Site") is for general informational purposes only. All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site.
+          The information provided by [Your Company Name] ("we," "us" or "our") on <span className="font-medium text-gray-900">https://about-us-page-generator-free.vercel.app</span> (the "Site") is for general informational purposes only. All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site.
         </p>
         <p className="text-red-600 font-bold leading-relaxed mt-4">
           UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE SITE OR RELIANCE ON ANY INFORMATION PROVIDED ON THE SITE. YOUR USE OF THE SITE AND YOUR RELIANCE ON ANY INFORMATION ON THE SITE IS SOLELY AT YOUR OWN RISK.

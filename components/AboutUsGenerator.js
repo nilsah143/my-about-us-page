@@ -62,7 +62,7 @@ const AboutUsGenerator = () => {
         Our Mission
     </h2>
     <p style="font-size: 1.1em;">
-        Welcome to <span id="W_Name2">${nameCap}</span>, a dedicated <span id="W_Type1">${websiteType}</span> platform founded with the vision of becoming the most trusted and comprehensive resource for **<span id="W_Spec">${websiteSpeciality}</span>**. Our mission is simple: to empower our community by providing high-quality, reliable, and accessible content and services. We believe that true success comes from delivering exceptional value and fostering a genuine connection with every visitor.
+        Welcome to <span id="W_Name2">${nameCap}</span>, a dedicated <span id="W_Type1">${websiteType}</span> platform founded with the vision of becoming the most trusted and comprehensive resource for <span id="W_Spec">${websiteSpeciality}</span>. Our mission is simple: to empower our community by providing high-quality, reliable, and accessible content and services. We believe that true success comes from delivering exceptional value and fostering a genuine connection with every visitor.
     </p>
 
     <h2 style="color:${textColor}; margin-top: 25px; font-size: 1.8em; border-bottom: 2px solid ${textColor === 'white' ? '#4dabf7' : '#ccc'}; padding-bottom: 10px;">
@@ -76,10 +76,10 @@ const AboutUsGenerator = () => {
         Our Commitment to You
     </h2>
     <p>
-        Every day, we work to uphold the values of **integrity, innovation, and user-centric design**. We are not just a website; we are a community dedicated to helping you achieve your goals related to ${websiteSpeciality}. Your trust is our highest priority, and we are constantly evolving our platform based on your feedback.
+        Every day, we work to uphold the values of integrity, innovation, and user-centric design. We are not just a website; we are a community dedicated to helping you achieve your goals related to ${websiteSpeciality}. Your trust is our highest priority, and we are constantly evolving our platform based on your feedback.
     </p>
     <p>
-        **Special Note:** This very text was generated using our incredibly helpful tool, the 
+        Special Note: This very text was generated using our incredibly helpful tool, the 
         <a href="https://about-us-page-generator-free.vercel.app/" style="color: ${textColor === 'white' ? '#4dabf7' : 'blue'}; font-weight: bold; text-decoration: none;">About Us Page Generator</a>, 
         demonstrating our commitment to making high-quality web content accessible to everyone.
     </p>
@@ -170,7 +170,7 @@ const AboutUsGenerator = () => {
                         <button 
                             className="px-6 py-2 text-lg font-bold text-white bg-green-600 rounded-lg shadow-md hover:bg-green-700 transition duration-150" 
                             onClick={copyCode}>
-                            📋 **Copy HTML Code**
+                            📋 Copy HTML Code
                         </button>
                     </div>
                     
