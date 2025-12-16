@@ -44,7 +44,7 @@ export default function HomePage() {
         </h2>
         
         <p className="text-xl text-gray-700 leading-relaxed mb-8">
-            The **About Us page** is often the most critical, yet most overlooked, element of a successful website. It’s your chance to move beyond products and services and establish a deep connection, **building the trust and credibility** necessary to convert a visitor into a long-term customer.
+            The About Us page is often the most critical, yet most overlooked, element of a successful website. It’s your chance to move beyond products and services and establish a deep connection, building the trust and credibility necessary to convert a visitor into a long-term customer.
         </p>
 
         {/* SECTION 1: What is an About Us Page? */}
@@ -56,13 +56,13 @@ export default function HomePage() {
                 Fundamentally, the "About Us" page is a narrative—a concise story that gives customers a clear understanding of the individuals behind the business and the core mission that drives their work. It goes far beyond a simple corporate statement. This page often includes:
             </p>
             <ul className="list-disc list-inside ml-4 mt-3 space-y-2 text-gray-700">
-                <li>**Business History:** A brief timeline of how the company started and its milestones.</li>
-                <li>**Team Introduction:** Photographs and short bios of key personnel to humanize the brand.</li>
-                <li>**Core Values:** Insight into the intentions, attitudes, and cultural aspects that guide the business.</li>
-                <li>**Contact & Location:** Clear details on how and where to reach you.</li>
+                <li>Business History: A brief timeline of how the company started and its milestones.</li>
+                <li>Team Introduction: Photographs and short bios of key personnel to humanize the brand.</li>
+                <li>Core Values: Insight into the intentions, attitudes, and cultural aspects that guide the business.</li>
+                <li>Contact & Location: Clear details on how and where to reach you.</li>
             </ul>
             <p className="text-gray-700 leading-relaxed mt-4">
-                In essence, this page reveals the **purpose and personality** of the business. It’s the second place visitors typically click, right after the homepage, seeking validation and introductory content—the **who, what, when, and how** of your operation.
+                In essence, this page reveals the purpose and personality of the business. It’s the second place visitors typically click, right after the homepage, seeking validation and introductory content—the who, what, when, and how of your operation.
             </p>
         </div>
 
@@ -72,7 +72,7 @@ export default function HomePage() {
                 The Invaluable Benefits: Why Trust Signals Trump Keywords
             </h3>
             <p className="text-gray-700 leading-relaxed">
-                Many businesses focus exclusively on improving service or product pages for **SEO (Search Engine Optimization)**, often neglecting the "About Us" section because it isn't traditionally keyword-heavy. This is a missed opportunity. While it may not rank for product terms, its content is **invaluable for user experience** and indirectly impacts your overall SEO score by boosting **E-E-A-T (Experience, Expertise, Authoritativeness, and Trustworthiness)**.
+                Many businesses focus exclusively on improving service or product pages for SEO (Search Engine Optimization), often neglecting the "About Us" section because it isn't traditionally keyword-heavy. This is a missed opportunity. While it may not rank for product terms, its content is invaluable for user experience and indirectly impacts your overall SEO score by boosting E-E-A-T (Experience, Expertise, Authoritativeness, and Trustworthiness).
             </p>
             
             <div className="grid md:grid-cols-3 gap-6 mt-6">

@@ -5,15 +5,15 @@ import Head from 'next/head';
 const faqData = [
     { 
         question: "Is this About Us Page Generator truly free?", 
-        answer: "Yes, our tool is **100% free forever**. You can generate unlimited 'About Us' pages without registration, sign-up, or hidden costs. We are committed to providing value to small businesses and bloggers." 
+        answer: "Yes, our tool is free forever. You can generate unlimited 'About Us' pages without registration, sign-up, or hidden costs. We are committed to providing value to small businesses and bloggers." 
     },
     { 
         question: "Is the generated code compatible with WordPress, Blogger, and other CMS platforms?", 
-        answer: "**Absolutely.** The output is clean, standard HTML5 code. You can paste it directly into the Custom HTML block (WordPress/Gutenberg), the HTML editor (Blogger), or any standard web builder that allows custom code insertion." 
+        answer: "Absolutely.The output is clean, standard HTML5 code. You can paste it directly into the Custom HTML block (WordPress/Gutenberg), the HTML editor (Blogger), or any standard web builder that allows custom code insertion." 
     },
     { 
         question: "How do I make the generated page fully SEO-optimized?", 
-        answer: "The code provides a perfect foundation. To truly optimize it, ensure you replace the placeholder text with **unique, detailed content** about your company's mission, team history, and founder experience. Use relevant long-tail keywords naturally within your story to boost E-E-A-T." 
+        answer: "The code provides a perfect foundation. To truly optimize it, ensure you replace the placeholder text with unique, detailed content about your company's mission, team history, and founder experience. Use relevant long-tail keywords naturally within your story to boost E-E-A-T." 
     },
     { 
         question: "Can I use a different font or color scheme in the final HTML code?", 
@@ -21,15 +21,15 @@ const faqData = [
     },
     { 
         question: "Why is an 'About Us' page important for E-E-A-T?", 
-        answer: "The About Us page is critical for establishing **Trust** and **Expertise**. Google uses E-E-A-T signals (Experience, Expertise, Authoritativeness, and Trustworthiness) to rank content. Showing the *who* and *why* behind your business proves you are a legitimate and knowledgeable source in your niche." 
+        answer: "The About Us page is critical for establishing Trust and Expertise. Google uses E-E-A-T signals (Experience, Expertise, Authoritativeness, and Trustworthiness) to rank content. Showing the *who* and *why* behind your business proves you are a legitimate and knowledgeable source in your niche." 
     },
     { 
         question: "How long does it take to generate the 'About Us' page code?", 
-        answer: "The generation process is **instantaneous**. Once you fill in the three required fields (Name, Type, and Speciality), the HTML code appears instantly in the output box. The whole process takes less than 10 seconds." 
+        answer: "The generation process is instantaneous. Once you fill in the three required fields (Name, Type, and Speciality), the HTML code appears instantly in the output box. The whole process takes less than 10 seconds." 
     },
     { 
         question: "What is the best way to integrate the code into my WordPress site?", 
-        answer: "The simplest method is to create a new page, select the **Custom HTML** block in the Gutenberg editor, and paste the code directly into that block. Alternatively, you can use a Shortcode or Page Builder widget that supports raw HTML input." 
+        answer: "The simplest method is to create a new page, select the Custom HTML block in the Gutenberg editor, and paste the code directly into that block. Alternatively, you can use a Shortcode or Page Builder widget that supports raw HTML input." 
     },
     { 
         question: "Does the generated code support mobile responsiveness?", 

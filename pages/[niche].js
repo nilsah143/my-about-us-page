@@ -49,7 +49,7 @@ const NicheGeneratorPage = ({ nicheData }) => {
       <div id="article" className="mt-12 p-8 bg-white rounded-xl shadow-2xl border border-gray-200">
         {/* ... (Include your rewritten SEO Article content here, customizing the title/intro if possible) ... */}
         <p className="text-xl text-gray-700 leading-relaxed">
-          This content is optimized specifically for generating high-trust pages for **{nicheData.title}** businesses.
+          This content is optimized specifically for generating high-trust pages for {nicheData.title} businesses.
         </p>
       </div>
       

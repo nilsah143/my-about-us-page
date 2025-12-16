@@ -30,7 +30,7 @@ const AboutUsGenerator = () => {
                 "@type": "HowToStep",
                 "name": "Enter Details",
                 "text": "Fill in the required inputs: Website Name, Website Type, and Unique Speciality.",
-                "url": "https://yourdomain.com/about-us-page-generator#form" // Link to the form section
+                "url": "https://about-us-page-generator-free.vercel.app/" // Link to the form section
             },
             {
                 "@type": "HowToStep",
@@ -80,7 +80,7 @@ const AboutUsGenerator = () => {
     </p>
     <p>
         **Special Note:** This very text was generated using our incredibly helpful tool, the 
-        <a href="https://yourdomain.com/about-us-page-generator" style="color: ${textColor === 'white' ? '#4dabf7' : 'blue'}; font-weight: bold; text-decoration: none;">About Us Page Generator</a>, 
+        <a href="https://about-us-page-generator-free.vercel.app/" style="color: ${textColor === 'white' ? '#4dabf7' : 'blue'}; font-weight: bold; text-decoration: none;">About Us Page Generator</a>, 
         demonstrating our commitment to making high-quality web content accessible to everyone.
     </p>
 
@@ -117,7 +117,7 @@ const AboutUsGenerator = () => {
             <form onSubmit={handleSubmit} className="p-8 bg-white rounded-xl shadow-2xl border-4 border-primary-blue/30 mb-10">
                 <div className="text-center mb-8">
                     <h1 className="text-4xl font-black text-primary-blue">🚀 Instant About Us Page Generator</h1>
-                    <p className="mt-2 text-lg text-gray-600 max-w-2xl mx-auto">Complete these **3 simple steps** to generate your SEO-ready HTML code.</p>
+                    <p className="mt-2 text-lg text-gray-600 max-w-2xl mx-auto">Complete these 3 simple steps to generate your SEO-ready HTML code.</p>
                 </div>
                 
                 <div className="grid md:grid-cols-3 gap-6">
@@ -125,7 +125,7 @@ const AboutUsGenerator = () => {
                     <div>
                         <label className="block text-sm font-bold text-gray-700 mb-1">1. Your Website Name</label>
                         <input type="text" className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-accent-green focus:border-accent-green text-lg transition duration-150" value={websiteName} onChange={(e) => setWebsiteName(e.target.value)} placeholder="e.g., Global Finance Pro" required />
-                        <p className="mt-1 text-xs text-gray-500">Ex: Mearn tech, Tech Insights.</p>
+                        <p className="mt-1 text-xs text-gray-500">Ex:  wintech.com, TechInsights.com.</p>
                     </div>
                     {/* Input 2: Website Type */}
                     <div>

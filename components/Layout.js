@@ -8,12 +8,12 @@ const webPageSchema = {
         "@type": "WebPage",
         "name": "Free About Us Page Generator Tool",
         "description": "Generate a professional, SEO-optimized 'About Us' page HTML instantly. Boost trust (E-E-A-T) and get mobile-friendly code for any CMS.",
-        "url": "https://yourdomain.com/about-us-page-generator", // REPLACE with your actual URL
+        "url": "https://about-us-page-generator-free.vercel.app/", // REPLACE with your actual URL
         "inLanguage": "en-US",
         "primaryImageOfPage": "https://yourdomain.com/images/generator-screenshot.png", // Recommended: Path to a screenshot or logo
         "publisher": {
             "@type": "Organization",
-            "name": "Your Company Name", // REPLACE with your company or personal brand name
+            "name": "About us page generator", // REPLACE with your company or personal brand name
             "logo": {
                 "@type": "ImageObject",
                 "url": "https://yourdomain.com/images/logo.png" // REPLACE with your logo URL
@@ -34,15 +34,15 @@ const Layout = ({ children, title = "Free About Us Page HTML Generator" }) => {
                 <link rel="icon" href="/favicon.ico" />
 
                 {/* 2. Optimized Meta Description */}
-                <meta name="description" content="Generate a professional, long-form 'About Us' page HTML instantly. Boost trust, improve E-E-A-T, and get mobile-friendly code for WordPress, Blogger, and all CMS. 100% Free!" />
+                <meta name="description" content="Generate a professional, long-form 'About Us' page HTML instantly. Boost trust, improve E-E-A-T, and get mobile-friendly code for WordPress, Blogger, and all CMS, " />
                 
                 {/* 4. Keywords Meta Tag (Optional) */}
-                <meta name="keywords" content="about us page generator, free about us html, generate about us page, about us tool, seo about us page, wordpress about us generator" />
+                <meta name="keywords" content="about us page generator, free about us html, generate about us page, about us tool, seo about us page, wordpress about us generator ,About us page generator free, About Us Generator, About Us page Generator for blogger, about us generator free, about us generator online, About us page generator for your website, free about us page html, free html about us page generator, About Us Generator for wordpress, about us page generator free, about us page generator for google blogger website, about us generator for wordpress website, about us page generator, Free About Us Page Generator tool for blogger and wordpress, Free About Me Page Generator tool, How to generate about us page, Create about us page, Generate about us page for blogger, About me page generator for website, about us free page generator, about us page generator for blog, about us page generator tool for bloggar, create about us page for your website, free about us page template, free about us page generator, generate about us page, about us generator for blogger free, about us generator for blogger" />
 
                 {/* 3. Open Graph / Social Sharing Tags */}
                 <meta property="og:title" content="Free About Us Page Generator - Instant HTML Code" />
                 <meta property="og:description" content="Generate a free, detailed, and SEO-optimized 'About Us' page in under 10 seconds. Perfect for boosting site trust (E-E-A-T)." />
-                <meta property="og:url" content="https://yourdomain.com/about-us-page-generator" /> 
+                <meta property="og:url" content="https://about-us-page-generator-free.vercel.app/" /> 
                 <meta property="og:type" content="website" />
                 {/* Add og:image tag if you have a branded image for sharing */}
 
@@ -90,7 +90,7 @@ const Layout = ({ children, title = "Free About Us Page HTML Generator" }) => {
                         <Link href="/terms-conditions" className="text-gray-600 hover:text-primary-blue transition-colors">Terms & Conditions</Link>
                         <Link href="/disclaimer" className="text-gray-600 hover:text-primary-blue transition-colors">Disclaimer</Link>
                     </div>
-                    <p className="mb-1 text-gray-700 font-medium">&copy; {new Date().getFullYear()} **About Us Generator**. All rights reserved.</p>
+                    <p className="mb-1 text-gray-700 font-medium">&copy; {new Date().getFullYear()} About Us Generator. All rights reserved.</p>
                     <small className="text-gray-500">Built for speed and SEO frendly about us pages.</small>
                 </div>
             </footer>
