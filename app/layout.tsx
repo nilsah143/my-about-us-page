@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "About as us page generator",
-  description: "this website help to creating a fast about us page ",
+  title: "Free About Us Page Generator Tool  - Free About Us Tool",
+  description: "About Us page Garerator is on Stop Solution for About Us page Creation , and its free to Use  ",
 };
 
 export default function RootLayout({
